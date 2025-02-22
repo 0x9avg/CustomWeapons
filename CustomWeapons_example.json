@@ -1,0 +1,120 @@
+{
+    "CustomWeapons": {
+        "weapon_knife": {
+            "name": "Нож",
+            "v_octane": {
+                "name": "V_octane",
+                "viewmodel": "models/weapons/exg/tokyocold/octane_heirloom/v_octane.vmdl",
+                "worldmodel": "",
+                "private": "1",
+                "private_prefix": "[БАБОЧКА]",
+                "hide": "1"
+            },
+            "loba": {
+                "name": "Loba",
+                "viewmodel": "weapons/models/knife/knife_butterfly/loba.vmdl",
+                "worldmodel": "",
+                "private": "1",
+                "private_prefix": "[ВЕЕР]",
+                "hide": "1"
+            },
+            "sanguine_gaze_v": {
+                "name": "Sanguine_gaze_v",
+                "viewmodel": "weapons/maoling/knife/sanguine_gaze/sanguine_gaze_v.vmdl",
+                "worldmodel": "",
+                "private": "1",
+                "private_prefix": "[КОСА]",
+                "hide": "1"
+            },
+            "mist_splitter_v": {
+                "name": "Mist_splitter_v",
+                "viewmodel": "weapons/maoling/knife/mist_splitter/mist_splitter_v.vmdl",
+                "worldmodel": "",
+                "private": "1",
+                "private_prefix": "[НОЖ]",
+                "hide": "1"
+            },
+            "dwbss": {
+                "name": "Dwbss",
+                "viewmodel": "models/dwbss/dwbss.vmdl",
+                "worldmodel": "",
+                "private": "1",
+                "private_prefix": "[RGB НОЖ]",
+                "hide": "1"
+            },
+            "katana_blood": {
+                "name": "Katana_blood",
+                "viewmodel": "models/weapons/exg/tokyocold/katana_blood/v_katana_blood.vmdl",
+                "worldmodel": "",
+                "private": "1",
+                "private_prefix": "[КАТАНА 1]",
+                "hide": "1"
+            },
+            "katana_lx3": {
+                "name": "Katana_lx3",
+                "viewmodel": "models/weapons/exg/tokyocold/katana_lx3/v_katana_lx3.vmdl",
+                "worldmodel": "",
+                "private": "1",
+                "private_prefix": "[КАТАНА 2]",
+                "hide": "1"
+            },
+            "katana_denglizi": {
+                "name": "katana_denglizi",
+                "viewmodel": "models/weapons/exg/tokyocold/katana_denglizi/v_katana_denglizi.vmdl",
+                "worldmodel": "",
+                "private": "1",
+                "private_prefix": "[КАТАНА 3]",
+                "hide": "1"
+            },
+            "buster_swords": {
+                "name": "Buster_swords",
+                "viewmodel": "models/weapons/exg/7ychu5/buster_swords/v_buster_swords.vmdl",
+                "worldmodel": "",
+                "private": "1",
+                "private_prefix": "[МЕЧ ПАЛАЧА]",
+                "hide": "1"
+            }
+        },
+        "weapon_ak47": {
+            "name": "АК-47",
+            "81yuanrang": {
+                "name": "81yuanrang",
+                "viewmodel": "models/81yuanrang/81yuanrang.vmdl",
+                "worldmodel": "",
+                "private": "1",
+                "private_prefix": "[АК-47]",
+                "hide": "1"
+            },
+            "akxies": {
+                "name": "Akxies",
+                "viewmodel": "models/akxies/akxies.vmdl",
+                "worldmodel": "",
+                "private": "1",
+                "private_prefix": "[АК-47]",
+                "hide": "1"
+            }
+        },
+        "weapon_m4a1": {
+            "name": "M4A4",
+            "xm4_elysia": {
+                "name": "Xm4_elysia",
+                "viewmodel": "models/exg/anonymous/xm4_elysia/xm4_elysia.vmdl",
+                "worldmodel": "",
+                "private": "1",
+                "private_prefix": "[M4A4]",
+                "hide": "1"
+            }
+        },
+        "weapon_awp": {
+            "name": "АВП",
+            "tediandaju": {
+                "name": "Tediandaju",
+                "viewmodel": "models/tediandaju/tediandaju.vmdl",
+                "worldmodel": "",
+                "private": "1",
+                "private_prefix": "[AWP]",
+                "hide": "1"
+            }
+        }
+    }
+}
